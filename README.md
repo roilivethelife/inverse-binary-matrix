@@ -1,4 +1,4 @@
-# inverse-binary-matrix
+# INVERSE BINARY MATRIX CALCULATOR
 Little program that computes the inverse of a binary matrix by gaussian elimination.
 
 Created to solve part of the "Nintendo HireMe.c" challenge. I needed to calculate the inverse of a binary matrix to reverse some XOR mutations.
